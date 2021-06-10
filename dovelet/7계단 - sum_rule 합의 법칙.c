@@ -1,0 +1,1 @@
+long long d[21][21],i,j,k;main(m){for(scanf("%d%d",&i,&j);k++<i;puts(""))for(m=0;m<j;)printf("%lld ",d[k][m++]=k&&m?d[k-1][m]+d[k][m-1]:1);}
