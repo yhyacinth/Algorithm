@@ -1,2 +1,2 @@
 # Algorithm
-Programming Problems Solving with C++
+Algorithmic Problems Solving with C++
